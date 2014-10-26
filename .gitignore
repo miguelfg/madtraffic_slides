@@ -1,0 +1,6 @@
+.DS_Store
+.cache
+assets_
+*.RData
+.Rhistory
+.Rproj.user
