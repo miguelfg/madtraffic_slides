@@ -9,13 +9,13 @@ hitheme     : tomorrow      #
 widgets     : [bootstrap, quiz, shiny, interactive]
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-ext_widgets: {rCharts: [libraries/nvd3]}
 
 
 ---
 ## MADtraffic app
 
 The current version of MADtraffic app displays a number of traffic measure points of Madrid. You can click on each point and get some info on it.
+
 ---
 
 ## Data 1
