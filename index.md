@@ -15,15 +15,7 @@ ext_widgets: {rCharts: [libraries/nvd3]}
 ---
 ## MADtraffic app
 
-The current version of MADtraffic app displays a number of traffic measure points of Madrid. 
-
-### You can click on each point and get some info on it.
-## Interactive Chart
-```{r echo = F, results = 'asis'}
-require(rCharts)
-source("global.R")
-plotMap(200)
-```
+The current version of MADtraffic app displays a number of traffic measure points of Madrid. You can click on each point and get some info on it.
 ---
 
 ## Data 1
