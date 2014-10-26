@@ -1,41 +1,14 @@
----
-title       : MADtraffic
-subtitle    : Shiny app for studying traffic and air quality in Madrid
-author      : Miguel Fiandor
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : [bootstrap, quiz, shiny, interactive]
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
-ext_widgets: {rCharts: [libraries/nvd3]}
-
-
----
-## MADtraffic app
-
-The current version of MADtraffic app displays a number of traffic measure points of Madrid. 
-
-### You can click on each point and get some info on it.
-## Interactive Chart
-```{r echo = F, results = 'asis'}
+require(RJSONIO)
 require(rCharts)
-source("global.R")
-plotMap(200)
-```
----
-
-## Data 1
-
-Our dataset comes from the Madrid's council open data portal. It consists of more than 3,600 traffic measure points.
-
-http://datos.madrid.es/
-
-We need to manipulate the data before append it to our map, it's done in two functions:
+require(RColorBrewer)
+require(httr)
+library(ggplot2)
+library(ggmap)
+require(downloader)
+library(RCurl)
 
 
-```
+## @knitr getData
 getTrafficPoints <- function(limit = 0) {
   num_decimals <- 3
   # load traffic measure  points
@@ -53,13 +26,7 @@ getTrafficPoints <- function(limit = 0) {
     return (df_traffic_measure_points[1:limit,])
 }
 
-```
-
----
-## Data 2
-
-
-```
+## @knitr getData
 getAirQualityPoints <- function() {
   num_decimals <- 3
   # load air quality measure points
@@ -72,57 +39,68 @@ getAirQualityPoints <- function() {
   return (df_airq_measure_points)
 }
 
+addColVis <- function(data) {
+  nrows <- nrow(data)
+  data$fillColor <- rgb(runif(nrows),runif(nrows),runif(nrows))  
+  return (data)
+}
 
-```
+getCenter <- function(nm, networks){
+  net_ = networks[[nm]]
+  lat = as.numeric(net_$lat)/10^6;
+  lng = as.numeric(net_$lng)/10^6;
+  return(list(lat = lat, lng = lng))
+}
 
-
----
-
-## Visualization
-
-For the visualizaton we are using the <a href="https://github.com/ramnathv/rCharts/">RCharts</a> library, specifically the call that wraps the Leaflet javascript library under the hood.
-
-
-Some snippets of visualization code that display our map:
-
-```  
-  #   create map
+## @knitr plotMap
+plotMap <- function(num_measure_points = nrow(df_traffic_measure_points), 
+                    width = 1600, 
+                    height = 800){
+  
   map <- Leaflet$new()
   map$tileLayer(provide='Stamen.TonerLite')
   
   #   init map
   map$setView(c(40.41, -3.70), zoom = 12, size = c(20, 20))
+  
+  #   get data points
+  df_traffic_measure_points <- getTrafficPoints(num_measure_points)
+  df_airq_measure_points <- getAirQualityPoints()
 
-  #   input data to map
+  data_ <- df_traffic_measure_points[,c("Lat", "Long")]
+  data_ <- addColVis(data_)
+  colnames(data_) <- c('latitude', 'longitude', 'fillColor')
+  
+  output_geofile <- paste(getwd(), '/data/', sep='')
+
   map$geoJson(
         leafletR::toGeoJSON(data_, 
+#                             lat.lon = c('Lat', 'Long'),
                             dest=output_geofile)
   )
-
-  ...
 
   # append markers and popup texts
   for(i in 1:num_measure_points) {
     html_text <- paste("<h6> Punto de medida del tráfico </h6>")
-    html_text <- paste(html_text, "<p>",  df_traffic_measure_points$NOMBRE.C.254[i],"          </p>")
+    html_text <- paste(html_text, "<p>",  df_traffic_measure_points$NOMBRE.C.254[i]," </p>")
     map$marker(c(df_traffic_measure_points$Lat[i], 
                   df_traffic_measure_points$Long[i]), 
                 bindPopup = html_text)
   }
-  
-  ...
-  
-  #   set properties and return
+
+  # append markers and popup texts
+  for(i in 1:nrow(df_airq_measure_points)) {
+    html_text <- paste("<h6> Estación de calidad del Aire </h6>")
+    html_text <- paste(html_text, "<p>",  df_airq_measure_points$Estacion[i]," </p>")
+    map$marker(c(df_airq_measure_points$Lat2[i], 
+                  df_airq_measure_points$Long2[i]),
+                bindPopup = html_text)
+#     map$circle(c(df_airq_measure_points$Lat2[i], 
+#                  df_airq_measure_points$Long2[i]))
+  }
+
+
   map$enablePopover(TRUE)
   map$fullScreen(TRUE)
   return(map)
 }
-```
-
----
-
-## Control
-
-You can choose with the slider control the number of traffic measure points to display in the leaflet map.
-
-![width](slider.png)
