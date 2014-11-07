@@ -4,7 +4,7 @@
   <title>MADtraffic</title>
   <meta charset="utf-8">
   <meta name="description" content="MADtraffic">
-  <meta name="author" content="Miguel Fiandor &amp; Jose Luis Alonso">
+  <meta name="author" content="Miguel Fiandor">
   <meta name="generator" content="slidify" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -13,10 +13,7 @@
     media="only screen and (max-device-width: 480px)" >
   <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
   <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
-  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/bootstrap/css/bootstrap.css"></link>
-<link rel=stylesheet href="libraries/widgets/quiz/css/demo.css"></link>
-<link rel=stylesheet href="libraries/widgets/interactive/css/aceeditor.css"></link>
-<link rel=stylesheet href="./assets/css/ribbons.css"></link>
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
 
   
   <!-- Grab CDN jQuery, fall back to local if offline -->
@@ -36,8 +33,8 @@
         <slide class="title-slide segue nobackground">
   <hgroup class="auto-fadein">
     <h1>MADtraffic</h1>
-    <h2>Aplicación Shiny para el estudio del tráfico y la contaminación en Madrid</h2>
-    <p>Miguel Fiandor &amp; Jose Luis Alonso<br/></p>
+    <h2>Shiny app for de MADdata contest</h2>
+    <p>Miguel Fiandor<br/></p>
   </hgroup>
   <article></article>  
 </slide>
@@ -45,71 +42,43 @@
 
     <!-- SLIDES -->
     <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Read-And-Delete</h2>
+  </hgroup>
   <article data-timings="">
-    <p><img src="images/madtraffic.png" alt="width"></p>
-
-<h2>Fuentes de datos</h2>
-
-<ul>
-<li><a href="http://datune.maddata.es/dataset/trafico-intensidad-del-trafico-ubicacion-de-los-puntos-de-medida">Dataset puntos de medida del tráfico</a></li>
-<li><a href="http://datune.maddata.es/dataset/instrucciones-de-conexion-a-impala">Dataset intensidad del tráfico - RIMpala</a></li>
-<li><a href="">Dataset estaciones de calidad del aire</a></li>
-<li><p><a href="http://datune.maddata.es/dataset/calidad-del-aire-datos-horarios-anos-2003-a-2014">Dataset mediciones horarias de calidad del aire (2014)</a></p></li>
-<li><p><a href="http://datos.madrid.es/">http://datos.madrid.es/</a></p></li>
-<li><p><a href="http://datune.maddata.es/">http://datune.maddata.es/</a></p></li>
-</ul>
+    <ol>
+<li>Edit YAML front matter</li>
+<li>Write using R Markdown</li>
+<li>Use an empty line followed by three dashes to separate slides!</li>
+</ol>
 
   </article>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-2" style="background:;">
+<slide class="class" id="id" style="background:;">
   <hgroup>
-    <h2>Visualización</h2>
+    <h2>Slide 2</h2>
   </hgroup>
   <article data-timings="">
-    <ul>
-<li>RCharts - <a href="http://rcharts.io/">http://rcharts.io/</a>
-
-<ul>
-<li>Mapa Leaflet - <a href="http://leafletjs.com/">http://leafletjs.com/</a></li>
-<li>MorrisJS - <a href="http://morrisjs.github.io/morris.js/">http://morrisjs.github.io/morris.js/</a></li>
-<li>JQuery Datatable - <a href="http://www.datatables.net/">http://www.datatables.net/</a></li>
-</ul></li>
-<li>ggplot/ggplot2 - <a href="http://ggplot2.org">http://ggplot2.org</a></li>
-</ul>
-
+    
   </article>
   <!-- Presenter Notes -->
 </slide>
 
 <slide class="" id="slide-3" style="background:;">
   <hgroup>
-    <h2>Otras fuentes de datos</h2>
+    <h2>Slide 3</h2>
   </hgroup>
   <article data-timings="">
-    <ul>
-<li><p>MeteoForecast - es un paquete de R que da acceso a modelos numéricos de predicción del tiempo a través de los siguientes servicios:</p>
-
-<ul>
-<li>GFS</li>
-<li>MeteoGalicia</li>
-<li>OpenMeteo</li>
-<li>NAM</li>
-<li>RAP</li>
-</ul></li>
-<li><p>Openair - Open-source tools for air pollution data analysis - <a href="http://www.openair-project.org/">http://www.openair-project.org/</a></p></li>
-<li><p>European Air quality dataBase - <a href="http://acm.eionet.europa.eu/databases/airbase/">http://acm.eionet.europa.eu/databases/airbase/</a> (&lt;-2012)</p></li>
-<li><p>Big Open Api (BOA) - <a href="http://datune.maddata.es/home/developers.html">http://datune.maddata.es/home/developers.html</a></p></li>
-</ul>
-
+    
   </article>
   <!-- Presenter Notes -->
 </slide>
 
 <slide class="" id="slide-4" style="background:;">
   <hgroup>
-    <h2>R &amp; Shiny pros</h2>
+    <h2>Slide 4</h2>
   </hgroup>
   <article data-timings="">
     
@@ -119,122 +88,10 @@
 
 <slide class="" id="slide-5" style="background:;">
   <hgroup>
-    <h2>Comunidad R</h2>
+    <h2>Slide 5</h2>
   </hgroup>
-  <article data-timings="">
-    <p><img src="images/r-num-packages.jpg" alt="width"></p>
-
-<p><img src="images/swiss-knife.jpg" alt="width"></p>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-6" style="background:;">
-  <hgroup>
-    <h2>Estadística</h2>
-  </hgroup>
-  <article data-timings="">
-    <p>R fundamentalmente es:</p>
-
-<ul>
-<li>Estadística</li>
-<li>Machine learning</li>
-<li>Predicción</li>
-<li>etc</li>
-</ul>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-7" style="background:;">
-  <hgroup>
-    <h2>Controles Shiny</h2>
-  </hgroup>
-  <article data-timings="">
-    <p>Shiny ofrece una gran variedad de contoles de usuario</p>
-
-<p><img src="images/shiny-controls.png" alt="width"></p>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-8" style="background:;">
-  <hgroup>
-    <h2>Entonces, ¿Qué problemas podemos resolver?</h2>
-  </hgroup>
-  <article data-timings="">
-    <ul>
-<li>¿Cuales son las calles más atascadas?</li>
-<li>¿Cuándo se atascan?¿Con cuánto tráfico?</li>
-<li>¿Cuánta contaminación genera?¿y dónde?</li>
-<li>¿Si reducimos el tráfico reducimos la contaminación?</li>
-<li>¿En qué calles habría que aumentar el transporte público?</li>
-<li>¿y cuándo?</li>
-<li>¿Cómo afecta el tiempo al tráfico?¿y cuánto?</li>
-<li>¿Cómo podría afectar todo esto a la calidad de vida de los madrileños?</li>
-</ul>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-9" style="background:;">
-  <hgroup>
-    <h2>Y ¿cómo los resolvemos?</h2>
-  </hgroup>
-  <article data-timings="">
-    <pre><code class="r">print(xtable(X[1:6,1:2]), type = &quot;html&quot;)
-</code></pre>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-10" style="background:;">
-  <hgroup>
-    <h3>Tabla</h3>
-  </hgroup>
-  <article data-timings="">
-    <pre><code class="r">source(&quot;global_functions.R&quot;)
-source(&quot;airq.R&quot;)
-connectImpala()
-data &lt;- getTrafficSeriesChart(id_traf_point, input$day_selection, 0)
-
-chart &lt;- mPlot(x = &#39;fecha&#39;, 
-               y = input$traf_variables, 
-               type = &#39;Line&#39;,
-               data = data)
-
-chart$set(pointSize = 0, lineWidth = 1)    
-
-chart
-
-</code></pre>
-
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-11" style="background:;">
   <article data-timings="">
     
-  </article>
-  <!-- Presenter Notes -->
-</slide>
-
-<slide class="" id="slide-12" style="background:;">
-  <hgroup>
-    <h2>Gracias</h2>
-  </hgroup>
-  <article data-timings="">
-    <p>Miguel Fiandor &amp; Jose Luis Alonso</p>
-
-<p><img src="images/adirse-logo.png" alt="width">
-<img src="images/erma-logo.jpg" alt="width"></p>
-
   </article>
   <!-- Presenter Notes -->
 </slide>
@@ -245,74 +102,32 @@ chart
     <ul>
       <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=1 title=''>
+        data-slide=1 title='Read-And-Delete'>
          1
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=2 title='Visualización'>
+        data-slide=2 title='Slide 2'>
          2
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=3 title='Otras fuentes de datos'>
+        data-slide=3 title='Slide 3'>
          3
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=4 title='R &amp; Shiny pros'>
+        data-slide=4 title='Slide 4'>
          4
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=5 title='Comunidad R'>
+        data-slide=5 title='Slide 5'>
          5
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=6 title='Estadística'>
-         6
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=7 title='Controles Shiny'>
-         7
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=8 title='Entonces, ¿Qué problemas podemos resolver?'>
-         8
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=9 title='Y ¿cómo los resolvemos?'>
-         9
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=10 title='Tabla'>
-         10
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=11 title=''>
-         11
-      </a>
-    </li>
-    <li>
-      <a href="#" target="_self" rel='tooltip' 
-        data-slide=12 title='Gracias'>
-         12
       </a>
     </li>
   </ul>
@@ -324,26 +139,6 @@ chart
   <![endif]-->
 </body>
   <!-- Load Javascripts for Widgets -->
-  <script src="libraries/widgets/bootstrap/js/bootstrap.min.js"></script>
-<script src="libraries/widgets/bootstrap/js/bootbox.min.js"></script>
-<script src="libraries/widgets/quiz/js/jquery.quiz.js"></script>
-<script src="libraries/widgets/quiz/js/mustache.min.js"></script>
-<script src="libraries/widgets/quiz/js/quiz-app.js"></script>
-<script src="libraries/widgets/interactive/js/ace/js/ace.js"></script>
-<script src="libraries/widgets/interactive/js/opencpu-0.5.js"></script>
-<script src="libraries/widgets/interactive/js/interactive.js"></script>
-
-  <script>  
-  $(function (){ 
-    $("#example").popover(); 
-    $("[rel='tooltip']").tooltip(); 
-  });  
-  </script>  
-  
-  <script src="shared/shiny.js" type="text/javascript"></script>
-  <script src="shared/slider/js/jquery.slider.min.js"></script>
-  <script src="shared/bootstrap/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="shared/slider/css/jquery.slider.min.css"></link>
   
   <!-- LOAD HIGHLIGHTER JS FILES -->
   <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
