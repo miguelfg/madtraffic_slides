@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#791CD9"
+        "fillColor": "#D9A704"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +14,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F9804F"
+        "fillColor": "#CD2093"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#59F144"
+        "fillColor": "#167FBF"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FDC9AB"
+        "fillColor": "#CF204D"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +44,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DD7F26"
+        "fillColor": "#B7876F"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#80C00E"
+        "fillColor": "#35AF63"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#2453DA"
+        "fillColor": "#F15B9C"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A7FAF3"
+        "fillColor": "#79CCDA"
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E5BF20"
+        "fillColor": "#8FA983"
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#58DA9C"
+        "fillColor": "#C718AF"
       },
       "geometry": {
         "type": "Point",
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#3BBC6F"
+        "fillColor": "#3DBEEF"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B67ACC"
+        "fillColor": "#C6F773"
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#47EC16"
+        "fillColor": "#4F69DE"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A63580"
+        "fillColor": "#B13294"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#85575D"
+        "fillColor": "#10F4EB"
       },
       "geometry": {
         "type": "Point",
@@ -154,7 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6071D4"
+        "fillColor": "#87445F"
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0343F9"
+        "fillColor": "#781E18"
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#CC6DF4"
+        "fillColor": "#6450DF"
       },
       "geometry": {
         "type": "Point",
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#BA10C5"
+        "fillColor": "#8CDE41"
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4834F0"
+        "fillColor": "#4966A0"
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F50C5A"
+        "fillColor": "#DC6A52"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#85475F"
+        "fillColor": "#9EF8B7"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#287C8C"
+        "fillColor": "#BE094A"
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E7FCE7"
+        "fillColor": "#75FEB1"
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#16423B"
+        "fillColor": "#C312BF"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#61049A"
+        "fillColor": "#9BB9D5"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F2F0B4"
+        "fillColor": "#91EA48"
       },
       "geometry": {
         "type": "Point",
@@ -274,7 +274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#57F3B1"
+        "fillColor": "#BEFA00"
       },
       "geometry": {
         "type": "Point",
@@ -284,7 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#ED82F2"
+        "fillColor": "#4E593B"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6532C9"
+        "fillColor": "#049A9F"
       },
       "geometry": {
         "type": "Point",
@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#AE650E"
+        "fillColor": "#877912"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#1528AB"
+        "fillColor": "#E1C55C"
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DEF7D0"
+        "fillColor": "#3A0222"
       },
       "geometry": {
         "type": "Point",
@@ -334,7 +334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#2B1671"
+        "fillColor": "#B08619"
       },
       "geometry": {
         "type": "Point",
@@ -344,7 +344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#55ECDE"
+        "fillColor": "#426D10"
       },
       "geometry": {
         "type": "Point",
@@ -354,7 +354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#73ACAB"
+        "fillColor": "#C7CEF0"
       },
       "geometry": {
         "type": "Point",
@@ -364,7 +364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F4D1EC"
+        "fillColor": "#D15DEE"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#481D87"
+        "fillColor": "#F8150D"
       },
       "geometry": {
         "type": "Point",
@@ -384,7 +384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FCB979"
+        "fillColor": "#C5DA4D"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D07CF7"
+        "fillColor": "#AD783A"
       },
       "geometry": {
         "type": "Point",
@@ -404,7 +404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#136B23"
+        "fillColor": "#05791D"
       },
       "geometry": {
         "type": "Point",
@@ -414,7 +414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6798E7"
+        "fillColor": "#5F0348"
       },
       "geometry": {
         "type": "Point",
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9D787D"
+        "fillColor": "#660D19"
       },
       "geometry": {
         "type": "Point",
@@ -434,7 +434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#8AF7A4"
+        "fillColor": "#5D7392"
       },
       "geometry": {
         "type": "Point",
@@ -444,7 +444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#192956"
+        "fillColor": "#ED580C"
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#7749F7"
+        "fillColor": "#91CB57"
       },
       "geometry": {
         "type": "Point",
@@ -464,7 +464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#75FC75"
+        "fillColor": "#482A7F"
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#91AF6F"
+        "fillColor": "#7060B1"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#7E0F8D"
+        "fillColor": "#3CEF89"
       },
       "geometry": {
         "type": "Point",
@@ -494,7 +494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DC6091"
+        "fillColor": "#4D820E"
       },
       "geometry": {
         "type": "Point",
@@ -504,7 +504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#27FD81"
+        "fillColor": "#D3BFAE"
       },
       "geometry": {
         "type": "Point",
@@ -514,7 +514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#EED7AD"
+        "fillColor": "#524B4E"
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B2BA01"
+        "fillColor": "#B9A83C"
       },
       "geometry": {
         "type": "Point",
@@ -534,7 +534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9E2CDB"
+        "fillColor": "#7EDE44"
       },
       "geometry": {
         "type": "Point",
@@ -544,7 +544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#497F9F"
+        "fillColor": "#AAFDC8"
       },
       "geometry": {
         "type": "Point",
@@ -554,7 +554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#1182FC"
+        "fillColor": "#A69EA0"
       },
       "geometry": {
         "type": "Point",
@@ -564,7 +564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#79110D"
+        "fillColor": "#F18876"
       },
       "geometry": {
         "type": "Point",
@@ -574,7 +574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F64ACA"
+        "fillColor": "#0D0BC1"
       },
       "geometry": {
         "type": "Point",
@@ -584,7 +584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DE4C38"
+        "fillColor": "#B3655E"
       },
       "geometry": {
         "type": "Point",
@@ -594,7 +594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0B8BA6"
+        "fillColor": "#D1D355"
       },
       "geometry": {
         "type": "Point",
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F075FB"
+        "fillColor": "#5EBC0A"
       },
       "geometry": {
         "type": "Point",
@@ -614,7 +614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#36153A"
+        "fillColor": "#DAAC96"
       },
       "geometry": {
         "type": "Point",
@@ -624,7 +624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#52ECE9"
+        "fillColor": "#35ADB2"
       },
       "geometry": {
         "type": "Point",
@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#BECB3D"
+        "fillColor": "#CA3015"
       },
       "geometry": {
         "type": "Point",
@@ -644,7 +644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4A85C3"
+        "fillColor": "#D31C79"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#37A38E"
+        "fillColor": "#20497A"
       },
       "geometry": {
         "type": "Point",
@@ -664,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#3D7C06"
+        "fillColor": "#3D0C71"
       },
       "geometry": {
         "type": "Point",
@@ -674,7 +674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#1143C9"
+        "fillColor": "#AA5548"
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0214E9"
+        "fillColor": "#4DE7C6"
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B3B7E8"
+        "fillColor": "#45E607"
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6ACD5E"
+        "fillColor": "#FBA022"
       },
       "geometry": {
         "type": "Point",
@@ -714,7 +714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#99CB84"
+        "fillColor": "#CA4FB3"
       },
       "geometry": {
         "type": "Point",
@@ -724,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D7E37B"
+        "fillColor": "#5459BB"
       },
       "geometry": {
         "type": "Point",
@@ -734,7 +734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#74636D"
+        "fillColor": "#10E322"
       },
       "geometry": {
         "type": "Point",
@@ -744,7 +744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#2E72D0"
+        "fillColor": "#B229F1"
       },
       "geometry": {
         "type": "Point",
@@ -754,7 +754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E8B7AB"
+        "fillColor": "#938B67"
       },
       "geometry": {
         "type": "Point",
@@ -764,7 +764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#262CEC"
+        "fillColor": "#2C8BC7"
       },
       "geometry": {
         "type": "Point",
@@ -774,7 +774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#5902A1"
+        "fillColor": "#FA7809"
       },
       "geometry": {
         "type": "Point",
@@ -784,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#595FC1"
+        "fillColor": "#1AB199"
       },
       "geometry": {
         "type": "Point",
@@ -794,7 +794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#56950D"
+        "fillColor": "#11EB8E"
       },
       "geometry": {
         "type": "Point",
@@ -804,7 +804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#CA6CDA"
+        "fillColor": "#2D58FE"
       },
       "geometry": {
         "type": "Point",
@@ -814,7 +814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#08C30D"
+        "fillColor": "#3A4005"
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F82627"
+        "fillColor": "#4F0EF8"
       },
       "geometry": {
         "type": "Point",
@@ -834,7 +834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A332EB"
+        "fillColor": "#6ED6E3"
       },
       "geometry": {
         "type": "Point",
@@ -844,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B54186"
+        "fillColor": "#FD0D03"
       },
       "geometry": {
         "type": "Point",
@@ -854,7 +854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#AEB4EA"
+        "fillColor": "#BEFD2E"
       },
       "geometry": {
         "type": "Point",
@@ -864,7 +864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#95D8F6"
+        "fillColor": "#149992"
       },
       "geometry": {
         "type": "Point",
@@ -874,7 +874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6053EA"
+        "fillColor": "#F7E011"
       },
       "geometry": {
         "type": "Point",
@@ -884,7 +884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#8E059F"
+        "fillColor": "#18E4AD"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B73614"
+        "fillColor": "#654C21"
       },
       "geometry": {
         "type": "Point",
@@ -904,7 +904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A09750"
+        "fillColor": "#E94D72"
       },
       "geometry": {
         "type": "Point",
@@ -914,7 +914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DA2273"
+        "fillColor": "#97FD37"
       },
       "geometry": {
         "type": "Point",
@@ -924,7 +924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#020869"
+        "fillColor": "#152BE1"
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9D822B"
+        "fillColor": "#C51FDA"
       },
       "geometry": {
         "type": "Point",
@@ -944,7 +944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E3D2FB"
+        "fillColor": "#858BAE"
       },
       "geometry": {
         "type": "Point",
@@ -954,7 +954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B7E639"
+        "fillColor": "#2D4683"
       },
       "geometry": {
         "type": "Point",
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9E96C1"
+        "fillColor": "#CCB035"
       },
       "geometry": {
         "type": "Point",
@@ -974,7 +974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#508519"
+        "fillColor": "#879EDF"
       },
       "geometry": {
         "type": "Point",
@@ -984,7 +984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#5666C6"
+        "fillColor": "#CDE2E6"
       },
       "geometry": {
         "type": "Point",
@@ -994,7 +994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#12FA5D"
+        "fillColor": "#830781"
       },
       "geometry": {
         "type": "Point",
@@ -1004,7 +1004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#264DEC"
+        "fillColor": "#FB9CE0"
       },
       "geometry": {
         "type": "Point",
@@ -1014,7 +1014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#CEF951"
+        "fillColor": "#86D85B"
       },
       "geometry": {
         "type": "Point",
@@ -1024,7 +1024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#99A205"
+        "fillColor": "#164638"
       },
       "geometry": {
         "type": "Point",
@@ -1034,7 +1034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#152231"
+        "fillColor": "#74A5E5"
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#ADDF66"
+        "fillColor": "#0560B8"
       },
       "geometry": {
         "type": "Point",
@@ -1054,7 +1054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4EC162"
+        "fillColor": "#0E7CCF"
       },
       "geometry": {
         "type": "Point",
@@ -1064,7 +1064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F9BB1F"
+        "fillColor": "#5D160E"
       },
       "geometry": {
         "type": "Point",
@@ -1074,7 +1074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#454986"
+        "fillColor": "#9D7ECC"
       },
       "geometry": {
         "type": "Point",
@@ -1084,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#5419DF"
+        "fillColor": "#1D9151"
       },
       "geometry": {
         "type": "Point",
@@ -1094,7 +1094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A75493"
+        "fillColor": "#76E7B7"
       },
       "geometry": {
         "type": "Point",
@@ -1104,7 +1104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#838522"
+        "fillColor": "#88C61F"
       },
       "geometry": {
         "type": "Point",
@@ -1114,7 +1114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#890F62"
+        "fillColor": "#136CD6"
       },
       "geometry": {
         "type": "Point",
@@ -1124,7 +1124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A6C024"
+        "fillColor": "#3FA138"
       },
       "geometry": {
         "type": "Point",
@@ -1134,7 +1134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#EA983C"
+        "fillColor": "#FEE313"
       },
       "geometry": {
         "type": "Point",
@@ -1144,7 +1144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C6AA22"
+        "fillColor": "#03A674"
       },
       "geometry": {
         "type": "Point",
@@ -1154,7 +1154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B32220"
+        "fillColor": "#692B1A"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C3F81B"
+        "fillColor": "#9E09EF"
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#895DD6"
+        "fillColor": "#61CFD9"
       },
       "geometry": {
         "type": "Point",
@@ -1184,7 +1184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FBCBB2"
+        "fillColor": "#ED7953"
       },
       "geometry": {
         "type": "Point",
@@ -1194,7 +1194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#49816F"
+        "fillColor": "#C84837"
       },
       "geometry": {
         "type": "Point",
@@ -1204,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#1F00F1"
+        "fillColor": "#A7155F"
       },
       "geometry": {
         "type": "Point",
@@ -1214,7 +1214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6AAF08"
+        "fillColor": "#B43E22"
       },
       "geometry": {
         "type": "Point",
@@ -1224,7 +1224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B4F2E5"
+        "fillColor": "#7F2838"
       },
       "geometry": {
         "type": "Point",
@@ -1234,7 +1234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9107A7"
+        "fillColor": "#7EB0EA"
       },
       "geometry": {
         "type": "Point",
@@ -1244,7 +1244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#118390"
+        "fillColor": "#AB7F3F"
       },
       "geometry": {
         "type": "Point",
@@ -1254,7 +1254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6C8ADE"
+        "fillColor": "#DF93D5"
       },
       "geometry": {
         "type": "Point",
@@ -1264,7 +1264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D18A4D"
+        "fillColor": "#616FAE"
       },
       "geometry": {
         "type": "Point",
@@ -1274,7 +1274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#65C529"
+        "fillColor": "#7A6C26"
       },
       "geometry": {
         "type": "Point",
@@ -1284,7 +1284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C39B54"
+        "fillColor": "#0D1F5C"
       },
       "geometry": {
         "type": "Point",
@@ -1294,7 +1294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C398A8"
+        "fillColor": "#E07FFE"
       },
       "geometry": {
         "type": "Point",
@@ -1304,7 +1304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#EE11AE"
+        "fillColor": "#04AF4D"
       },
       "geometry": {
         "type": "Point",
@@ -1314,7 +1314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0487B1"
+        "fillColor": "#3E6F07"
       },
       "geometry": {
         "type": "Point",
@@ -1324,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B0DE74"
+        "fillColor": "#50E333"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#60205A"
+        "fillColor": "#D9D1C4"
       },
       "geometry": {
         "type": "Point",
@@ -1344,7 +1344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#163D4E"
+        "fillColor": "#DC7B41"
       },
       "geometry": {
         "type": "Point",
@@ -1354,7 +1354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#891965"
+        "fillColor": "#D9642A"
       },
       "geometry": {
         "type": "Point",
@@ -1364,7 +1364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#2D8C96"
+        "fillColor": "#0EEF66"
       },
       "geometry": {
         "type": "Point",
@@ -1374,7 +1374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#18502E"
+        "fillColor": "#FCDEE6"
       },
       "geometry": {
         "type": "Point",
@@ -1384,7 +1384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#45D305"
+        "fillColor": "#F7B6DD"
       },
       "geometry": {
         "type": "Point",
@@ -1394,7 +1394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#14907B"
+        "fillColor": "#F59975"
       },
       "geometry": {
         "type": "Point",
@@ -1404,7 +1404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#51A3FB"
+        "fillColor": "#B3420B"
       },
       "geometry": {
         "type": "Point",
@@ -1414,7 +1414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D940B3"
+        "fillColor": "#9CAB3F"
       },
       "geometry": {
         "type": "Point",
@@ -1424,7 +1424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#716786"
+        "fillColor": "#7F28D9"
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4757F0"
+        "fillColor": "#3CC367"
       },
       "geometry": {
         "type": "Point",
@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#BC203C"
+        "fillColor": "#63B6C9"
       },
       "geometry": {
         "type": "Point",
@@ -1454,7 +1454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#951076"
+        "fillColor": "#FE7163"
       },
       "geometry": {
         "type": "Point",
@@ -1464,7 +1464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4E202E"
+        "fillColor": "#B19A33"
       },
       "geometry": {
         "type": "Point",
@@ -1474,7 +1474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#593C55"
+        "fillColor": "#95B81B"
       },
       "geometry": {
         "type": "Point",
@@ -1484,7 +1484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E38FDD"
+        "fillColor": "#9D9B3B"
       },
       "geometry": {
         "type": "Point",
@@ -1494,7 +1494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F4FB56"
+        "fillColor": "#7057A8"
       },
       "geometry": {
         "type": "Point",
@@ -1504,7 +1504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4F9E1A"
+        "fillColor": "#1A3B1A"
       },
       "geometry": {
         "type": "Point",
@@ -1514,7 +1514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#032A7F"
+        "fillColor": "#0CC8FD"
       },
       "geometry": {
         "type": "Point",
@@ -1524,7 +1524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#790D92"
+        "fillColor": "#DBDE90"
       },
       "geometry": {
         "type": "Point",
@@ -1534,7 +1534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E5589D"
+        "fillColor": "#38BA6E"
       },
       "geometry": {
         "type": "Point",
@@ -1544,7 +1544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C4F2F1"
+        "fillColor": "#56A3A9"
       },
       "geometry": {
         "type": "Point",
@@ -1554,7 +1554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FAFBDA"
+        "fillColor": "#D0DA0E"
       },
       "geometry": {
         "type": "Point",
@@ -1564,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#CAAC59"
+        "fillColor": "#7166CA"
       },
       "geometry": {
         "type": "Point",
@@ -1574,7 +1574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#25C853"
+        "fillColor": "#2FBF5F"
       },
       "geometry": {
         "type": "Point",
@@ -1584,7 +1584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#C43473"
+        "fillColor": "#D8ECE5"
       },
       "geometry": {
         "type": "Point",
@@ -1594,7 +1594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FCF6E8"
+        "fillColor": "#01F773"
       },
       "geometry": {
         "type": "Point",
@@ -1604,7 +1604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#AF37EB"
+        "fillColor": "#69345D"
       },
       "geometry": {
         "type": "Point",
@@ -1614,7 +1614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#01FABB"
+        "fillColor": "#71F412"
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D79193"
+        "fillColor": "#61EDE2"
       },
       "geometry": {
         "type": "Point",
@@ -1634,7 +1634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#47525B"
+        "fillColor": "#F1FC9B"
       },
       "geometry": {
         "type": "Point",
@@ -1644,7 +1644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#7E867D"
+        "fillColor": "#10490E"
       },
       "geometry": {
         "type": "Point",
@@ -1654,7 +1654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#9B64DA"
+        "fillColor": "#8DB120"
       },
       "geometry": {
         "type": "Point",
@@ -1664,7 +1664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A4A17E"
+        "fillColor": "#6130CA"
       },
       "geometry": {
         "type": "Point",
@@ -1674,7 +1674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#7B0896"
+        "fillColor": "#A429C3"
       },
       "geometry": {
         "type": "Point",
@@ -1684,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#4DBF05"
+        "fillColor": "#75307C"
       },
       "geometry": {
         "type": "Point",
@@ -1694,7 +1694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#793AC7"
+        "fillColor": "#2F1364"
       },
       "geometry": {
         "type": "Point",
@@ -1704,7 +1704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#F940ED"
+        "fillColor": "#3A375D"
       },
       "geometry": {
         "type": "Point",
@@ -1714,7 +1714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#D82AB2"
+        "fillColor": "#B8EF55"
       },
       "geometry": {
         "type": "Point",
@@ -1724,7 +1724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#7D3D34"
+        "fillColor": "#056874"
       },
       "geometry": {
         "type": "Point",
@@ -1734,7 +1734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#072193"
+        "fillColor": "#C2F2F8"
       },
       "geometry": {
         "type": "Point",
@@ -1744,7 +1744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FF3A39"
+        "fillColor": "#9E40EA"
       },
       "geometry": {
         "type": "Point",
@@ -1754,7 +1754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#76F12C"
+        "fillColor": "#B90112"
       },
       "geometry": {
         "type": "Point",
@@ -1764,7 +1764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#ED44F2"
+        "fillColor": "#47DC3F"
       },
       "geometry": {
         "type": "Point",
@@ -1774,7 +1774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B6CF4C"
+        "fillColor": "#B705FF"
       },
       "geometry": {
         "type": "Point",
@@ -1784,7 +1784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#6E1D21"
+        "fillColor": "#67FCC8"
       },
       "geometry": {
         "type": "Point",
@@ -1794,7 +1794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#40DE2A"
+        "fillColor": "#43E72B"
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#01BCE4"
+        "fillColor": "#857D8B"
       },
       "geometry": {
         "type": "Point",
@@ -1814,7 +1814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#54116C"
+        "fillColor": "#DA1602"
       },
       "geometry": {
         "type": "Point",
@@ -1824,7 +1824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#903CFF"
+        "fillColor": "#476D73"
       },
       "geometry": {
         "type": "Point",
@@ -1834,7 +1834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#AC53EC"
+        "fillColor": "#015A9E"
       },
       "geometry": {
         "type": "Point",
@@ -1844,7 +1844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#5890F5"
+        "fillColor": "#636DAC"
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +1854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#105C3B"
+        "fillColor": "#4C2EF0"
       },
       "geometry": {
         "type": "Point",
@@ -1864,7 +1864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#851F1A"
+        "fillColor": "#354BD3"
       },
       "geometry": {
         "type": "Point",
@@ -1874,7 +1874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#FDCE97"
+        "fillColor": "#E46D7F"
       },
       "geometry": {
         "type": "Point",
@@ -1884,7 +1884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#8EA3D3"
+        "fillColor": "#25A9D7"
       },
       "geometry": {
         "type": "Point",
@@ -1894,7 +1894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#A00ACC"
+        "fillColor": "#14BDB1"
       },
       "geometry": {
         "type": "Point",
@@ -1904,7 +1904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#E08FA9"
+        "fillColor": "#75176D"
       },
       "geometry": {
         "type": "Point",
@@ -1914,7 +1914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#BFF94A"
+        "fillColor": "#8FAC4A"
       },
       "geometry": {
         "type": "Point",
@@ -1924,7 +1924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#02FC33"
+        "fillColor": "#8E9E55"
       },
       "geometry": {
         "type": "Point",
@@ -1934,7 +1934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#0D8241"
+        "fillColor": "#3C1E58"
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +1944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#87A26F"
+        "fillColor": "#CD3567"
       },
       "geometry": {
         "type": "Point",
@@ -1954,7 +1954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#97D108"
+        "fillColor": "#42B591"
       },
       "geometry": {
         "type": "Point",
@@ -1964,7 +1964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#B2D5D3"
+        "fillColor": "#4A5E41"
       },
       "geometry": {
         "type": "Point",
@@ -1974,7 +1974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#90525D"
+        "fillColor": "#A5ACB3"
       },
       "geometry": {
         "type": "Point",
@@ -1984,7 +1984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#402C9F"
+        "fillColor": "#9F6E9C"
       },
       "geometry": {
         "type": "Point",
@@ -1994,971 +1994,11 @@
     {
       "type": "Feature",
       "properties": {
-        "fillColor": "#DC9953"
+        "fillColor": "#44976B"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-3.664,40.406]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C72C23"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.669,40.411]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#914CF3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.665,40.411]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#0A85E0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.67,40.416]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#BBD5E0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.677,40.449]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#A2DC20"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.667,40.455]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#F073FB"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.681,40.452]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2F7527"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.673,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#A386F4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.672,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#35278E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.677,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#0A35F0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.677,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C0206E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.66,40.418]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2889B7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.675,40.431]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#E4CF7E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.675,40.429]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#330989"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.7,40.395]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#A60855"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.698,40.398]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#11AF48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.67,40.43]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#E9BDFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.677,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#140D69"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#BD45C6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.713,40.435]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#D1C6D3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.707,40.426]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#CD127D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714,40.43]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#52EB95"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.694,40.438]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#854B48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.706,40.349]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#188899"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.707,40.346]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#8F0445"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.778,40.46]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#8C512B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.779,40.459]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#845590"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.779,40.459]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#AA4123"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.744,40.386]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#F8D65F"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.744,40.387]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#B55D45"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.7,40.383]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C548A4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.699,40.383]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C7ECC5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.7,40.384]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C7E17F"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.716,40.385]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#DDA8E6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.717,40.388]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#DE01D2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.717,40.385]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C74FDF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.764,40.384]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#120D99"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.765,40.399]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2F8DE6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.713,40.453]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#21F662"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.709,40.461]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#FDDF83"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.777,40.399]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#17FC33"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.775,40.397]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C48D3D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.676,40.457]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#D74D57"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.725,40.479]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#332909"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.651,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#F51F3A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.65,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#07C494"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.625,40.417]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2C52E1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.632,40.426]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#22457C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.645,40.426]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#E4E466"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.643,40.429]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3A9CEC"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.718,40.42]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#754D19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.721,40.418]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#46865D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.713,40.422]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#08F292"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.689,40.413]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#925912"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.689,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#BD17F8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.723,40.388]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#9DD130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.619,40.459]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#5E4083"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.616,40.457]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2DA91E"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.626,40.463]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#E67A41"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.653,40.468]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#686E74"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.648,40.474]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#134BF8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.611,40.422]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#68D2E7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.674,40.46]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#F28370"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.697,40.463]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#CC08A4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.621,40.443]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#95C668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.618,40.443]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#5CCDE5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.621,40.438]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#9B8814"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.699,40.457]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C756E8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.697,40.456]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#A5A341"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.707,40.407]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#D5B045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.708,40.406]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2CA77C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.69,40.42]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3D466C"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.707,40.421]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#0B5846"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.693,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2C755B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.692,40.433]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#1AC360"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.731,40.43]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3E6FF1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.731,40.431]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#EEA575"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.704,40.479]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#79A30B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.72,40.474]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#672570"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.613,40.446]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#ADAD98"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.754,40.488]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3FA41F"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.584,40.445]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#AE8C14"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.701,40.381]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#477CC7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.69,40.414]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3DD2F7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.741,40.383]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#9E263B"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.731,40.388]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#9084F1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.733,40.389]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#9B36F3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.73,40.387]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#2A77FF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.741,40.369]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#A1C473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.668,40.444]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#C4A8B7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.673,40.449]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#91C38F"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.693,40.412]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#F26063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.697,40.405]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#0F43DF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.704,40.44]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#B0E5ED"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.712,40.434]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#3CD90D"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.605,40.404]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "fillColor": "#6A5BF2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.609,40.405]
       }
     }
   ]
