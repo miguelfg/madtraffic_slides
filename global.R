@@ -7,6 +7,8 @@ library(ggmap)
 require(downloader)
 library(RCurl)
 
+# publish(user='miguelfg', repo='madtraffic_slides')
+
 
 ## @knitr getData
 getTrafficPoints <- function(limit = 0) {
